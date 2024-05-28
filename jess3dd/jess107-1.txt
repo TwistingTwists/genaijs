@@ -1,0 +1,49 @@
+Here are the main concepts and sub-concepts (as sub-topics) from the provided text file:
+
+* **Transport**
+    * **Importance of Transport**
+    * **Modes of Transport**
+        * **Roadways**
+            * **Types of Roadways**
+                * **Golden Quadrilateral Super Highways**
+                * **National Highways**
+                * **State Highways**
+                * **District Roads**
+                * **Other Roads**
+                * **Border Roads**
+            * **Classification of Roads**
+                * **Metalled Roads**
+                * **Unmetalled Roads**
+        * **Railways**
+            * **Importance of Railways**
+            * **Railway Network**
+            * **Railway Gauges**
+        * **Pipelines**
+            * **Importance of Pipelines**
+            * **Pipeline Networks**
+        * **Waterways**
+            * **Importance of Waterways**
+            * **National Waterways**
+            * **Major Sea Ports**
+        * **Airways**
+            * **Importance of Airways**
+            * **UDAN Scheme**
+* **Communication**
+    * **Importance of Communication**
+    * **Means of Communication**
+        * **Postal Network**
+        * **Telecom Network**
+        * **Mass Communication**
+            * **Radio**
+            * **Television**
+            * **Newspapers**
+            * **Films**
+* **International Trade**
+    * **Importance of International Trade**
+    * **Components of International Trade**
+        * **Export**
+        * **Import**
+        * **Balance of Trade**
+    * **Tourism as a Trade**
+        * **Importance of Tourism**
+        * **Types of Tourism** 

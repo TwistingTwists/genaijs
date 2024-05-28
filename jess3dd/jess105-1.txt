@@ -1,0 +1,71 @@
+Here are the main concepts and sub-concepts from the provided text, nested for clarity:
+
+* **Minerals**
+    * Importance of Minerals
+        * In daily life
+        * In living organisms
+        *  In toothpaste
+    * What is a mineral?
+        * Definition 
+        * Variety of minerals
+    * Formation of minerals
+        * In igneous and metamorphic rocks
+        * In sedimentary rocks
+        * Residual deposits
+        * Alluvial deposits (Placer deposits)
+        * Ocean waters
+    * Mode of Occurrence
+        * Ores
+        * Veins and Lodes
+        * Beds or Layers
+        * Placer deposits
+    * Study of Minerals 
+        * By Geographers
+        * By Geologists
+    * Classification of Minerals
+    * Distribution of Minerals in India 
+        * Ferrous Minerals 
+            * Iron Ore
+                * Types of iron ore
+                * Major iron ore belts in India
+            * Manganese
+        * Non-Ferrous Minerals 
+            * Copper
+            * Bauxite
+        * Rock Minerals
+            * Limestone 
+        * Non-Metallic Minerals
+            * Mica
+    * Hazards of Mining 
+        * Impact on miners
+        * Impact on environment
+    * Conservation of Minerals
+* **Energy Resources**
+    * Importance of Energy
+    * Types of Energy Resources
+        * Conventional Sources 
+            * Firewood and Cattle dung cake
+            * Coal 
+                * Types of coal
+                * Distribution of coal in India
+            * Petroleum
+                * Formation
+                * Distribution of petroleum in India
+            * Natural Gas 
+                * Distribution of natural gas in India
+            * Electricity
+                * Types of electricity 
+                    * Hydroelectricity 
+                    * Thermal Electricity
+        * Non-Conventional Sources 
+            * Nuclear Energy 
+                * Distribution of nuclear power plants in India
+            * Solar Energy 
+                * Distribution of solar power plants in India
+            * Wind Energy 
+                * Distribution of wind farms in India
+            * Biogas
+            * Tidal Energy
+            * Geothermal Energy 
+                * Distribution of geothermal power plants in India
+    * Conservation of Energy Resources 
