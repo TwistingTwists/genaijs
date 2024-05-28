@@ -6,12 +6,11 @@ const path = require('path');
  * Converts a PDF file to plain text using the 'pdftotext' binary and saves the output to a text file.
  * 
  * @param {string} pdfPath - The path to the PDF file.
- * @param {string} [outputDir='./'] - Optional. The directory to save the output text file. 
- *                                       Defaults to the current directory.
  * @returns {Promise<string>} A promise that resolves with the output file path.
  */
-async function pdfToText(pdfPath, outputDir = './') {
+async function pdfToText(pdfPath) {
     return new Promise((resolve, reject) => {
+      const outputDir = path.dirname(pdfPath);
       const outputFileName = path.basename(pdfPath, '.pdf') + '.txt';
       const outputFilePath = path.join(outputDir, outputFileName);
   
