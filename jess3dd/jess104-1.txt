@@ -1,0 +1,32 @@
+## Main Concepts:
+
+* **Agriculture in India**
+    * **Types of Farming**
+        * Primitive Subsistence Farming
+        * Intensive Subsistence Farming
+        * Commercial Farming
+        * Plantation Farming
+    * **Cropping Pattern**
+        * Rabi Crops
+        * Kharif Crops
+        * Zaid Crops
+    * **Major Crops**
+        * Food Crops
+            * Rice
+            * Wheat
+            * Millets
+                * Jowar
+                * Bajra
+                * Ragi
+            * Pulses
+            * Sugarcane
+            * Oilseeds
+        * Non-Food Crops
+            * Rubber
+            * Jute
+            * Fibre Crops
+                * Cotton
+    * **Technological and Institutional Reforms**
+        * Green Revolution
+        * White Revolution (Operation Flood)
+        * Bhoodan - Gramdan Movement 

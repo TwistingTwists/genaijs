@@ -1,0 +1,50 @@
+## Main Concepts:
+
+1. **Resources:**
+    - Definition of Resources
+    - Classification of Resources
+        - Based on Origin
+        - Based on Exhaustibility
+        - Based on Ownership
+        - Based on Status of Development
+    - Sustainable Development 
+    - Resource Depletion and its Consequences
+    - Resource Planning 
+        - Importance of Resource Planning
+        - Resource Planning in India
+        - Conservation of Resources
+
+2. **Land Resources:**
+    - Importance of Land 
+    - Land Utilisation 
+        - Forest 
+        - Land not available for Cultivation
+            - Barren and waste land
+            - Land put to non-agricultural uses 
+        - Other uncultivated land
+        - Fallow Lands
+        - Net sown area
+    - Land Use Pattern in India
+    - Land Degradation and Conservation Measures
+
+3. **Soil as a Resource:**
+    - Importance of Soil
+    - Soil Formation
+    - Soil Profile
+    - Classification of Soils
+        - Alluvial Soils
+        - Black Soil
+        - Red and Yellow Soils
+        - Laterite Soil
+        - Arid Soils
+        - Forest Soils
+    - Soil Erosion and Soil Conservation
+        - Soil Erosion
+            - Gully Erosion
+            - Sheet Erosion
+            - Wind Erosion 
+        - Soil Conservation
+            - Contour Ploughing
+            - Terrace Cultivation
+            - Strip Cropping
+            - Shelter Belts 

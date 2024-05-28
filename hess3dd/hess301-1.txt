@@ -1,0 +1,23 @@
+Here are the main concepts and sub-concepts from the text, nested for clarity:
+
+* **The Indian Constitution**
+    * Why Does a Country Need a Constitution?
+        * To lay out ideals for a society
+        * To define the nature of a country's political system
+        * To guard against misuse of authority
+        * To prevent tyranny of the majority
+        * To protect against decisions that go against larger interests 
+    * The Indian Constitution: Key Features
+        * Federalism
+        * Parliamentary Form of Government
+        * Separation of Powers
+        * Fundamental Rights
+            * Right to Equality
+            * Right to Freedom
+            * Right against Exploitation
+            * Right to Freedom of Religion
+            * Cultural and Educational Rights
+            * Right to Constitutional Remedies 
+        * Secularism
+        * Fundamental Duties 
+

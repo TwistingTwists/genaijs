@@ -1,0 +1,18 @@
+- **Market**
+    - Cotton Market
+        - Small Farmer
+        - Trader
+        - Loan
+        - Price Negotiation
+    - Cloth Market
+        - Merchant
+        - Weaver
+        - Putting-out System
+    - Garment Factory
+        - Garment Exporter
+        - Foreign Buyer
+        - Worker Wages
+- **Chain of Markets**
+- **Profit & Loss**
+- **Equality**
+- **Sustainable Development Goals** 

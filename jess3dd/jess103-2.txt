@@ -1,0 +1,131 @@
+## MCQs from the Chapter:
+
+**1. Water Scarcity:**
+
+**(i) Which of the following is NOT a direct cause of water scarcity?**
+
+(a) Over-exploitation of groundwater
+(b) Excessive use of water in agriculture
+(c) Unequal distribution of rainfall
+(d) Increase in industrialization
+
+**Answer:** (c) Unequal distribution of rainfall 
+
+**Explanation:** While rainfall distribution is a factor in water availability, it's not a direct cause of scarcity. Scarcity arises from how we use and manage water.
+
+**2. Water Resources Management:**
+
+**(ii) Which of the following is a key objective of the Pradhan Mantri Krishi Sinchaee Yojana?**
+
+(a) Promoting organic farming practices
+(b) Expanding the area under assured irrigation
+(c) Supporting the development of new crop varieties
+(d) Providing financial assistance to drought-affected farmers
+
+**Answer:** (b) Expanding the area under assured irrigation
+
+**Explanation:** The scheme aims to ensure reliable irrigation access for all agricultural farms in the country.
+
+**3. Rainwater Harvesting:**
+
+**(iii) What is the primary function of 'Tankas' in Rajasthan?**
+
+(a)  Collecting rainwater for irrigation
+(b)  Storing drinking water for household use
+(c)  Providing water to cattle 
+(d)  Recharging groundwater 
+
+**Answer:** (b) Storing drinking water for household use
+
+**Explanation:** Tankas are underground storage structures used to collect and store rainwater for domestic use, especially in arid regions.
+
+**4. Water Scarcity:**
+
+**(iv)  In which scenario would a region likely experience water scarcity despite abundant rainfall?**
+
+(a) Low population density
+(b)  Well-maintained irrigation systems
+(c)  High levels of water pollution
+(d)  Limited use of groundwater
+
+**Answer:** (c) High levels of water pollution
+
+**Explanation:**  Polluted water becomes unusable, leading to scarcity even if the total water volume is high.
+
+**5. Water Resources Management:**
+
+**(v)  What is a significant environmental concern associated with multi-purpose river projects?**
+
+(a)  Increased groundwater recharge
+(b)  Reduced soil erosion
+(c)  Fragmentation of river ecosystems
+(d)  Promotion of sustainable agriculture
+
+**Answer:** (c) Fragmentation of river ecosystems
+
+**Explanation:**  Dams disrupt the natural flow of rivers, impacting aquatic life and the overall health of ecosystems.
+
+**6. Rainwater Harvesting:**
+
+**(vi)  Which state in India made rooftop rainwater harvesting structures compulsory for all households?**
+
+(a)  Karnataka
+(b)  Rajasthan
+(c)  Tamil Nadu
+(d)  Meghalaya
+
+**Answer:** (c) Tamil Nadu
+
+**Explanation:** Tamil Nadu implemented a policy making rainwater harvesting structures mandatory, emphasizing water conservation.
+
+**7. Water Scarcity:**
+
+**(vii) What is the primary reason why water scarcity is expected to worsen by 2025?**
+
+(a)  Increasing global temperatures
+(b)  Climate change impacting rainfall patterns
+(c)  Growing population and increasing water demand
+(d)  Limited investment in water infrastructure
+
+**Answer:** (c) Growing population and increasing water demand
+
+**Explanation:**  A rising global population will put further pressure on already strained water resources.
+
+**8. Water Resources Management:**
+
+**(viii) Which of the following is NOT a traditional method of water harvesting in India?**
+
+(a)  Khadins
+(b)  Tankas
+(c)  Bamboo Drip Irrigation
+(d)  Guls
+
+**Answer:** (c) Bamboo Drip Irrigation
+
+**Explanation:** Bamboo Drip Irrigation is a modern adaptation of traditional methods using bamboo for water distribution.
+
+**9. Rainwater Harvesting:**
+
+**(ix) What is the main benefit of bamboo drip irrigation systems?**
+
+(a)  Increased water availability for irrigation
+(b)  Reduced water wastage and efficient use
+(c)  Improved soil quality
+(d)  Reduced reliance on chemical fertilizers
+
+**Answer:** (b) Reduced water wastage and efficient use
+
+**Explanation:** Bamboo drip irrigation delivers water directly to plant roots, minimizing loss through evaporation.
+
+**10. Water Scarcity:**
+
+**(x)  Which statement accurately describes the relationship between water scarcity and food security?**
+
+(a)  Water scarcity has no impact on food security.
+(b)  Water scarcity increases food security by encouraging farmers to adopt drought-resistant crops.
+(c)  Water scarcity hinders food security as it limits agricultural production.
+(d)  Water scarcity improves food security by promoting efficient water use in agriculture.
+
+**Answer:** (c) Water scarcity hinders food security as it limits agricultural production.
+
+**Explanation:**  Water is crucial for agriculture, and a lack of water directly impacts food production, posing a threat to food security.

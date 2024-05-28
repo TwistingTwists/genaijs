@@ -1,0 +1,34 @@
+- Urban Administration
+    - Municipal Corporation
+        - Functions
+            - Street lights
+            - Garbage collection
+            - Water supply
+            - Sanitation
+            - Schools, hospitals, dispensaries
+            - Gardens
+        - Decision Making
+            - Ward Councillors
+            - Committees
+                - Water
+                - Garbage collection
+                - Street lighting
+            - Commissioner
+            - Administrative staff
+        - Funding
+            - Taxes
+                - Property tax
+                - Water tax
+                - Other amenities
+            - Sub-contracting
+    - Community Participation
+        - Ward Councillor
+        - Protest
+        - Petition
+    - Importance of Cleanliness
+        - Plague scare in Surat
+        - Swachh Bharat Mission
+    - Issues in Urban Administration
+        - Inequality in service provision
+            - Slums vs. middle class neighborhoods
+        - Importance of equitable distribution of resources 
