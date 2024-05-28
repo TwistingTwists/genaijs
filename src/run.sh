@@ -1,0 +1,2 @@
+# echo "./gess3dd/gess301.txt"| bun run src/run_once.js
+echo "./gess3dd/gess301.txt"| bun run src/run_once.js && echo "./gess3dd/gess302.txt"| bun run src/run_once.js  && echo "./gess3dd/gess303.txt"| bun run src/run_once.js && echo "./gess3dd/gess304.txt"| bun run src/run_once.js && echo "./gess3dd/gess305.txt"| bun run src/run_once.js && echo "./gess3dd/gess306.txt"| bun run src/run_once.js  && echo "./gess3dd/gess307.txt"| bun run src/run_once.js && echo "./gess3dd/gess308.txt"| bun run src/run_once.js 
