@@ -1,4 +1,4 @@
 **/*.pdf
-
+run2.sh
 .env
 node_modules
